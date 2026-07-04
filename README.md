@@ -8,7 +8,7 @@ Je suis un **Data Scientist et Développeur** passionné par la résolution de p
 
 ### Ce sur quoi je travaille en ce moment
 *   L'analyse de données et la modélisation économétrique pour comprendre les dynamiques sociales et migratoires.
-*   Le développement d'applications à impact comme des solutions de *Smart Farming* et de  comparaison de prix des sites E-com.
+*   Le développement d'applications à impact comme des solutions de *software as a service* et de  comparaison de prix des sites E-com.
 *   La préparation pour le Vibe Coding au VIBEATHON Côte d'Ivoire 2026 ! 
 
 ### Comment me contacter
