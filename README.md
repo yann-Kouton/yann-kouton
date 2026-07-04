@@ -1,6 +1,6 @@
 # Salut, je suis ESMEL 👋
 
-Je suis un **Data Scientist et Développeur Full-Stack** passionné par la résolution de problèmes complexes à travers les données et la programmation. Actuellement en Master 1 Data Science et Intelligence Artificielle à l'Université Félix Houphouët-Boigny.
+Je suis un **Data Scientist et Développeur** passionné par la résolution de problèmes complexes à travers les données et la programmation. Actuellement en Master 1 Data Science et Intelligence Artificielle à l'Université Félix Houphouët-Boigny.
 
 ### Mon Stack 
 *   **Data & Modélisation :** Python, R, Économétrie spatiale, DSDM.
