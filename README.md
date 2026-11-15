@@ -24,9 +24,9 @@
 
 **CTO (Chief Technology Officer) chez [Yamarché](https://www.yamarche.com/)**
 
-Yamarché est une plateforme de marché virtuel qui digitalise le marché local en Côte d'Ivoire. Elle met en relation des clients avec des fournisseurs de vivres frais et facilite la commande ainsi que la livraison des produits.
+Yâmarché est une plateforme de marché virtuel qui rapproche le marché local des consommateurs. Notre mission est de simplifier les courses du quotidien. Commander en quelques clics, planifier selon son budget et recevoir à domicile des produits sains, traçables et de qualité, sans avoir à se déplacer.
 
-Mes responsabilités : définition de l'architecture technique, pilotage du développement web et mobile, encadrement de l'équipe technique.
+Mes responsabilités : définition de l'architecture technique, pilotage du développement web et mobile, encadrement de l'équipe technique, recherche et développement.
 
 ## Domaines d'expertise
 
